@@ -1,1 +1,16 @@
-
+{
+    "packages": {
+        "ryanellis/php-hello-echo": {
+            "v1.5": {
+                "name": "ryanellis/php-hello-echo",
+                "source": {
+                    "reference": "558da9b08e76be78b59656414bcb74da8718c87d",
+                    "type": "git",
+                    "url": "git@github.com:ryanellis/php-hello-echo.git"
+                },
+                "type": "project",
+                "version": "v1.5"
+            }
+        }
+    }
+}
